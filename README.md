@@ -82,7 +82,7 @@
 #### 📝 My GitHub Stats
 <br>
 
-[![smartcoder-developer's github stats](https://github-readme-stats.vercel.app/api?username=smartcoder-developer&theme=gotham)](https://github.com/smartcoder-developer/github-readme-stats)
+[![mwicwiri-bonface's github stats](https://github-readme-stats.vercel.app/api?username=mwicwiri-bonface&theme=gotham)](https://github.com/mwicwiri-bonface/github-readme-stats)
 
 
 Open Source Contributor from <b>Meru, Kenya<b> 💻
