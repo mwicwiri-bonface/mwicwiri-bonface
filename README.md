@@ -40,7 +40,7 @@ I'm Bonface Mwicwiri
 #### Personal summary
 💻 A developer specializing in Python, Django, Django Rest Framework, JQuery, Vanilla JS, CSS
 <br>
-📗 Currently improving my UI / UX design skills for both mobile and web apps.
+📗 Currently studying Vue-js and Android development.
 <br>
 🙋‍ Open to collaborate on a project.
 <br>
