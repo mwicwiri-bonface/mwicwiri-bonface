@@ -88,20 +88,20 @@
 Open Source Contributor from <b>Meru, Kenya<b> 💻
     
 <p align="center">Let's connect!</p>
-<a href="https://twitter.com/bonfacemwicwir2">
+<a href="https://twitter.com/bonfacemwicwir2" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="#">
+<a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/bonface-mwicwiri-0813a6153/">
+<a href="https://www.linkedin.com/in/bonface-mwicwiri-0813a6153/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
-<a href="#">
+<a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
