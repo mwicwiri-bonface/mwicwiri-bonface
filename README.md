@@ -85,7 +85,7 @@ I'm Bonface Mwicwiri
 [![smartcoder-developer's github stats](https://github-readme-stats.vercel.app/api?username=smartcoder-developer&theme=gotham)](https://github.com/smartcoder-developer/github-readme-stats)
 
 
-Open Source Contributor from <b>Meru, Kenya<b> 💚❤🖤
+Open Source Contributor from <b>Meru, Kenya<b> 💻
     
 <p align="center">Let's connect!</p>
 <a href="https://twitter.com/bonfacemwicwir2">
