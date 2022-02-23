@@ -82,7 +82,7 @@
 #### 📝 My GitHub Stats
 <br>
 
-[![mwicwiri-bonface's github stats](https://github-readme-stats.vercel.app/api?username=mwicwiri-bonface&theme=gotham)](https://github.com/mwicwiri-bonface/github-readme-stats)
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mwicwiri-bonface&theme=gotham)](https://github.com/mwicwiri-bonface/github-readme-stats)
 
 
 Open Source Contributor from <b>Meru, Kenya<b> 💻
