@@ -38,7 +38,7 @@
 ### A Python and Django Developer.
 
 #### Personal summary
-💻 A developer specializing in Python, Django, Django Rest Framework, JQuery, Vanilla JS, CSS
+💻 A developer specializing in Python, Django, Django Rest Framework, Flask, Fastapi, JQuery, Vanilla JS, CSS
 <br>
 📗 Currently studying Vue-js and Android development.
 <br>
